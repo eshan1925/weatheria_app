@@ -6,6 +6,9 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+This particular app will help the user to know the current weather at their place and also at whatever place they wish to know the weather.
+This app has been built from scratch.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
