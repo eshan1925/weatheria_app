@@ -1,4 +1,4 @@
-# waeatheria_app
+# weatheria_app
 
 A new Flutter application.
 
